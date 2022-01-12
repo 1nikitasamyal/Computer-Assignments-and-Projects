@@ -1,0 +1,13 @@
+#Question 4: Make a list to enter marks of 5 students and display them in a sorted manner.
+
+Enter the marks of the Student 1: 96
+Enter the marks of the Student 2: 97
+Enter the marks of the Student 3: 98
+Enter the marks of the Student 4: 99
+Enter the marks of the Student 5: 100
+
+ List of the Student Marks:
+  [96, 97, 98, 99, 100]
+
+ Sorted Student List(increasing order): 
+[96, 97, 98, 99, 100]

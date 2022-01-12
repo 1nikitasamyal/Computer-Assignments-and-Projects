@@ -1,0 +1,11 @@
+#Question 2: Compute a person's income tax (in $)
+
+================================================================ RESTART: C:/Users/Suresh Kumar/Downloads/Question_2.py ================================================================
+Enter the gross income:
+600000
+Enter the number of dependents:
+3
+Taxable_income:
+ 581000.0
+Tax: 
+ 116200.0

@@ -1,0 +1,11 @@
+#Question 4: Store different data type values into a list.
+
+Enter the name of the Student: Nikita Samyal
+Enter the Student ID:21103005
+Enter the gender of the Student(F,M,U): F
+Enter the Student's course name: Introduction to Computing
+Enter the Student's CGPA: 10
+['Name', 'SID', 'Gender', 'Course_name', 'CGPA']
+
+ The list of the student information:
+  ['Nikita Samyal', 21103005, 'F', 'Introduction to Computing', 10.0]

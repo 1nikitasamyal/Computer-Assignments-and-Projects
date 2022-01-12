@@ -1,0 +1,7 @@
+#Question 1: Find the average of three numbers entered by the user.
+
+Enter the first number: 10
+Enter the second number: 20
+Enter the third number: 30
+The Average of three numbers is:
+ 20.0

@@ -1,0 +1,90 @@
+#Question 1: Write Python code for the following:
+
+Python is a case sensitive language
+
+ (a)
+The length of the input string: 
+ 35
+
+ (c)
+Reverse of the given input string: 
+ egaugnal evitisnes esac a si nohtyP
+
+ (c)
+Store 'a case sensitive' in new string: 
+  a case sensitive
+
+ (d)
+Updated string after replacing 'a case sensitive' with 'object oriented': 
+ Python is object oriented language
+
+ (e)
+The index of substring 'a' in the given input string: 
+ 10
+
+ (f)
+String after removing the white spaces from the given input string: 
+ Python is a case sensitive language
+
+#Question 2: Use the string formatting to print your Name , SID, Department name and CGPA in the following output:
+
+Hey, Nikita Samyal Here!
+My SID is 21103005 
+I am from CSE department and my CGPA is 9.9
+
+#Question 3: For a = 56 and b = 10 with the help of bitwise operator, calculate the following:
+
+ (a)
+With the help of bitwise AND operator :
+ 8
+
+ (b)
+With the help of bitwise OR operator:
+ 58
+
+ (c)
+With the help of bitwise XOR operator:
+ 50
+
+ (d)
+Bitwise Left shift a with 2 bits: 
+ 224
+Bitwise Left shift b with 2 bits: 
+ 40
+
+ (e)
+Bitwise Right shift a with 4 bits: 
+ 3
+Bitwise Right shift b with 4 bits: 
+ 0
+
+#Question 4: Find the greatest of three numbers entered by the user.
+
+Enter the first number:
+23
+Enter the second number:
+45
+Enter the third number:
+36
+Second number i.e. 45.0 is the greatest.
+
+#Question 5: Check if the word 'name' is present in the string entered by the user or not(Print: "Yes" or "No")
+
+Enter the string:
+My name is Nikita Samyal.
+
+The word 'name' is present in the entered string or not (Yes or No)?
+Yes 
+
+#Question 6: Check whether the given input lengths can form a triangle or not(Print: "Yes" or "No").
+
+Enter the first side of a triangle:
+4
+Enter the second side of a triangle:
+5
+Enter the third side of a triangle:
+6
+
+The given input lengths can form a triangle or not (Yes or No)?
+Yes
+
